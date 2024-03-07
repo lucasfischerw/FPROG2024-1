@@ -1,0 +1,15 @@
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/bin/Debug/net8.0/Lista 1
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/bin/Debug/net8.0/Lista 1.deps.json
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/bin/Debug/net8.0/Lista 1.runtimeconfig.json
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/bin/Debug/net8.0/Lista 1.dll
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/bin/Debug/net8.0/Lista 1.pdb
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.AssemblyInfoInputs.cache
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.AssemblyInfo.cs
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.csproj.CoreCompileInputs.cache
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.sourcelink.json
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.dll
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/refint/Lista 1.dll
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.pdb
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/Lista 1.genruntimeconfig.cache
+/Users/lucasfischer/Documents/GitHub/FPROG2024-1/Lista 1/obj/Debug/net8.0/ref/Lista 1.dll
