@@ -30,3 +30,6 @@ if(resposta == respostaCorreta) {
 }
 
 Console.WriteLine("Você respondeu alternativa " + resposta + ". A alternativa correta é a alternativa " + respostaCorreta);
+
+//Exercício 4
+//Usando um array com as opções de alternativas e um loop for para escrever as alternativas no console, como feito acima
