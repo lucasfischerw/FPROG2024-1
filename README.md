@@ -7,6 +7,8 @@ Este repositório contém os exercícios desenvolvidos para a disciplina Fundame
 
 As listas de Exercício 1-5 foram desenvolvidas usando C#. Cada pasta contém todos os arquivos necessários para compilar e executar o programa. O programa principal também pode ser compilado e executado em algum site interpretador, usando o código disponivel dentro de Program.cs </br>
 
+As listas de Exercício 6-8 foram desenvolvidas usando C++. A pasta contém todos os arquivos gerados pelo compilador e interpretador. Para usar o programa, baixar e abrir o arquivo 'Program', ou copiar o conteúdo do arquivo 'Program.cpp' e usar um compilador online para rodar o programa.
+
 O conteúdo principal abordado por cada lista de exercício segue abaixo:
 
 Lista 1: Comandos de Entrada/Saída e Variáveis</br>
